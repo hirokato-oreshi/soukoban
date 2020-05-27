@@ -1,2 +1,1 @@
 # soukoban
-ëqå…î‘
